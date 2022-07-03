@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Android1Labo2</string>
+
+
+    <string-array name="provinces">
+        <item>Aucune Selection</item>
+        <item>Quebec</item>
+        <item>Ontario</item>
+        <item>Alberta</item>
+
+    </string-array>
+    <string-array name="villes_vide">
+        <item>Choisir Province</item>
+
+    </string-array>
+    <string-array name="villes_quebec">
+        <item>Québec</item>
+        <item>Montréal</item>
+        <item>Laval</item>
+        <item>Longueil</item>
+
+    </string-array>
+
+    <string-array name="villes_ontario">
+        <item>Toronto</item>
+        <item>Ottawa</item>
+        <item>Hamilton</item>
+        <item>Kingston</item>
+
+    </string-array>
+
+    <string-array name="villes_alberta">
+        <item>Edmonton</item>
+        <item>Calgary</item>
+        <item>Fort McMurray</item>
+        <item>Red Deer</item>
+
+    </string-array>
+
+
+
+</resources>
+
