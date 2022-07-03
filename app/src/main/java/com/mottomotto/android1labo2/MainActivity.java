@@ -42,14 +42,14 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             case "Aucune Selection" : cities = R.array.villes_vide;
             break;
            case "Quebec" : cities = R.array.villes_quebec;
-               iv.setImageResource(R.drawable.quebec_flag);
+               iv.setImageResource(R.drawable.quebec);
 
            break;
             case "Ontario": cities = R.array.villes_ontario;
-                iv.setImageResource(R.drawable.flag_ontario);
+                iv.setImageResource(R.drawable.ontario);
             break;
             case "Alberta": cities = R.array.villes_alberta;
-                iv.setImageResource(R.drawable.flag_alberta);
+                iv.setImageResource(R.drawable.alberta);
             break;
             default : cities = R.array.villes_vide;
                 break;
